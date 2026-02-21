@@ -20,14 +20,14 @@ Analisis sentimen dilakukan untuk mengetahui apakah ulasan pelanggan termasuk ke
 ---
 
 ## 📂 Struktur Repository
+```bash
 Analisis-Sentimen-Kopi-Kenangan/
 │
 ├── kopken_reviews.csv
 ├── scrapping_kopken.ipynb
 ├── SVMPelatihan_Model.ipynb
 └── requirements.txt
-
----
+```
 
 ### Penjelasan File:
 
